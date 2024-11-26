@@ -1,0 +1,23 @@
+
+
+.laptop_overview {
+    display: flex;
+    flex-direction: horizontal;
+    gap: 10px;
+
+}
+
+.container {
+    position: relative;
+    width: 90vw;
+    margin: auto;
+    
+}
+
+.laptop-product{
+    position: relative;
+    width: 30vw;
+    text-align: left;
+    font-weight: bold;
+    
+}
